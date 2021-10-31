@@ -1,4 +1,4 @@
-# Install MongoDB on a VPS
+# Install MongoDB on a Server
 ---------
 # Install all the packages
 
