@@ -46,6 +46,10 @@ net:
   port: 27017
   bindIp: 0.0.0.0
 ```
+Restart MongoDB to apply the new IP
+```sh
+sudo systemctl start mongod
+```
 
 ## Add a new admin/root user
 Go into the Mongo Shell using:
