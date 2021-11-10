@@ -48,7 +48,7 @@ net:
 ```
 Restart MongoDB to apply the new IP
 ```sh
-sudo systemctl start mongod
+sudo systemctl restart mongod
 ```
 
 ## Add a new admin/root user
