@@ -31,7 +31,7 @@ bind-address            = 127.0.0.1
 ```
 And change `127.0.0.1` to `0.0.0.0`
 
-Your block should look like this:
+Your text should look like this:
 ```
 bind-address            = 0.0.0.0
 ```
