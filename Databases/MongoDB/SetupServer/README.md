@@ -4,7 +4,7 @@
 
 ## Add the Repository Key
 ```sh
-wget -qO - https://www.mongodb.org/static/pgp/server-5.0.asc | sudo apt-key add -
+wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo apt-key add -
 ```
 
 ## Add the Repository
