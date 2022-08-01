@@ -9,7 +9,7 @@ wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo apt-key add 
 
 ## Add the Repository
 ```sh
-echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/5.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-5.0.list
+echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list
 ```
 
 ## Update Repositories and install MongoDB
